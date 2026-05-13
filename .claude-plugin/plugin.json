@@ -6,10 +6,6 @@
     "name": "Prime Radiant, Inc."
   },
   "homepage": "https://github.com/prime-radiant-inc/greenfield",
-  "agents": [
-    "./agents/analyzer",
-    "./agents/sanitizer"
-  ],
   "skills": [
     "./skills/analysis-pipeline",
     "./skills/provenance-methodology",
